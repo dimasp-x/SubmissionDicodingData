@@ -39,6 +39,7 @@ markdown-it-py @ file:///C:/b/abs_a5bfngz6fu/croot/markdown-it-py_1684279915556/
 MarkupSafe @ file:///C:/ci/markupsafe_1654489871526/work
 matplotlib @ file:///C:/b/abs_085jhivdha/croot/matplotlib-suite_1693812524572/work
 matplotlib-inline @ file:///C:/ci/matplotlib-inline_1661934035815/work
+matplotlib==3.4.3
 mdurl @ file:///C:/Windows/TEMP/abs_3197pzpjbi/croots/recipe/mdurl_1659716032440/work
 mkl-fft @ file:///C:/b/abs_19i1y8ykas/croot/mkl_fft_1695058226480/work
 mkl-random @ file:///C:/b/abs_edwkj1_o69/croot/mkl_random_1695059866750/work
